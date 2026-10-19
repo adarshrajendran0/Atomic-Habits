@@ -1,0 +1,6 @@
+{
+  "name": "Atomic Habits",
+  "description": "A calm, minimalist habit tracker following clear psychological principles of James Clear's Atomic Habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
